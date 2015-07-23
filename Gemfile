@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'rails', '4.2.2'
+gem 'sqlite3'
+gem 'pry-byebug', github: 'deivid-rodriguez/pry-byebug', branch: 'support_latest_byebug'
+gem 'pry', github: 'pry/pry'
+gem 'byebug', github: 'deivid-rodriguez/byebug'
+gem 'capybara-puma'
+gem 'capybara'
+gem 'capybara-webkit'
+gem 'rspec-rails'
